@@ -191,6 +191,13 @@ header {
  	flex: 1 !important;
 }
 
+.seacherbox {
+	display: block;
+}
+.seacherfield {
+	margin-top: 10px;
+}
+
 
 @media (max-width: 770px){
 .container-img {
@@ -219,6 +226,10 @@ header {
 	width: 100% !important;
 	-webkit-order: 2;
 	order: 2;
+}
+
+.seacherbox {
+	display: none;
 }
 
 }
