@@ -1,0 +1,49 @@
+.blogback {
+	width: 100%;
+    height: 100%;
+    background: rgba(90, 150, 160, 1) url(../img/trip.png) no-repeat;
+     background-size: contain;
+    background-position: center center;
+    background-attachment: fixed;
+}
+
+
+.logo {
+	width: 100px;
+	height: auto;
+	margin-top: 0.5rem;
+	float:left;
+}
+
+.blogslogan {
+	margin: 10px 0px !important;
+	font-family: "Dancing Script", cursive!important;
+	font-size: 2.5rem!important;
+	text-shadow: 1px 1px 10px grey, 
+			  	0px 0px 10px black; 
+}
+
+.top-right-bar {
+	padding-top: 10px!important;
+	font-size: 0.9rem!important;
+}
+
+.top-right-bar>a {
+	margin: 2px!important;
+}
+
+.socialbar {
+	    margin: 20px 0px;
+}
+
+.socialbar img {
+	    margin: 4px 4px!important;
+}
+
+.galerybox {
+	padding-top: 20px!important;
+}
+
+.galerybox>div>img {
+	border:5px solid white!important;
+}
